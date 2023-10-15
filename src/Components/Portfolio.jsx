@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Is Data Science overrated?",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A blog post on the hype around data science and how it is not as glamorous as it seems.",
+    url: "https://medium.com/@2104025/is-data-science-overrated-3b09f8e4d5de",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Usage of Power BI for Data Analytics",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A blog post on the usage of Power BI for data analytics and how it is a great tool for data visualization.",
+    url: "https://medium.com/@2104025/usage-of-power-bi-for-data-analytics-6fd96595d5f3",
   },
   {
-    title: "My Resume Site",
+    title: "Technology and Teens",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A blog post on the usage of technology by teens and how it is affecting their mental health.",
+    url: "https://medium.com/@2104025/technology-and-teens-58aca6767095",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "The Pandemic-is it really over?",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A blog post on the effects of the pandemic on the mental health of people.",
+    url: "https://medium.com/@2104025/the-pandemic-is-it-really-over-a1a229d28906",
   },
 ];
 
